@@ -1,8 +1,9 @@
 # HI, i'm Jesus
 #### Backend developer in progress 
 ##### 👨‍💻 Currently, I am immersing myself in the realm of backend development.
-##### 🐍 My intention is to harness the benefits of Python and the power of Django to create amazing things.
+##### 🐍 My intention is to harness the benefits of Python and the power of Php to create amazing things.
 ##### 🌓 Bridging the gap between frontend flair and backend brains.
+##### 🎨 Learning about the frontend world with Astro and WordPress
 ##### 📚 Portfolio in progress.
 
 ### 💻 Tech Stack:
